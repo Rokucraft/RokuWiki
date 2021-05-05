@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+{% set title = page.title %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = page.meta.title %}
+  {% elif page and page.title and not page.is_homepage %}
+    {% set title = page.title | striptags %}
+  {% endif %}
+{% set description = page.description %}
+  {% if page and page.meta and page.meta.description %}
+    {% set description = page.meta.description %}
+  {% elif config.site_description %}
+    {% set description = config.site_description %}
+  {% endif %}
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  <meta property="og:image" content="https://wiki.rokucraft.com/assets/images/logo.png">
+  <meta property="og:site_name" content="Rokucraft Wiki">
+  <meta property="theme-color" content="#DAA520">
+{% endblock %}
