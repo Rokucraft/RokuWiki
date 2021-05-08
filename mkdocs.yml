@@ -150,5 +150,6 @@ nav:
        - Resource Pack: server-related/resource-pack.md
        - Rules: server-related/rules.md
        - Roles: server-related/roles.md
+  - FAQ: faq.md
   # The "" makes the page invisible in the wiki tabs
   - "": attributions.md
