@@ -14,8 +14,14 @@ title: Fire Nation Societal Ranks
 **Prime Minister**
 :   The Prime Minister is responsible for managing internal affairs within the Fire Nation. They must manage various different departments within the Fire Nation, such as education and health, and handle cultural affairs.
 
-**Defense Minister**
-:   The Defense Minister leads the Fire Nation military and police force to ensure that our borders and citizens remain safe. They are responsible for recruiting new members and training them.
+**Health Minister**
+:   The Health Minister works under the Prime Minister and reviews public sanitation guidelines, keeps medicinal strategies up to date and oversees all hospitals.
+
+**Education Minister**
+:   The Education Minister works under the Prime Minister and organizes cultural showcases, writes the curriculum for schools and ensures every Fire Nation citizen has access to education.
+
+**Grand General**
+:   The Grand General leads the Fire Nation military and police force to ensure that our borders and citizens remain safe. They are responsible for recruiting new members and training them.
 
 **High Magistrate**
 :   The High Magistrate leads the courts and are a significant figure in relation to law and justice within the Fire Nation. They will preside over critical court cases, and introduce new and crucial legislation.
