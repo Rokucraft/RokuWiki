@@ -28,25 +28,22 @@ Roleplay that is overly graphic is prohibited. Do not write extremely inappropri
 8. **You can only hold a maximum of two leadership positions and must be active in them**  
 A leadership position is defined as a role in which you lead or generate roleplay for other players. You are expected to remain active in positions that require you to lead the nation or other players. The Nation Leader has the right to remove any player from their leadership position if they are inactive for over four weeks.
 
-9. **Only one character of your own will contribute to family nobility**  
-You are free to play multiple characters in a single family, but only one character of your own will contribute to the nobility of the family.
-
-10. **Do not train your own characters**  
+9. **Do not train your own characters**  
 You cannot train your characters using other characters that you have created.
 
-11. **Follow roleplay etiquette**  
+10. **Follow roleplay etiquette**  
 Use quotation marks (`“like this”`) to indicate when your character is talking. Additionally, asterisks (`*like this*`) can be used to convey thoughts or actions.
 
-12. **Names should fit the Avatar lore**[^3]  
+11. **Names should fit the Avatar lore**[^3]  
 We suggest that you use names that are consistent with the server and Avatar lore.
 
-13. **Creating a character introduction is strongly encouraged**  
+12. **Creating a character introduction is strongly encouraged**  
 A [character introduction](character-introductions.md) allows you to firmly establish your character and let the playerbase learn more about them.
 
-14. **Join the roleplay-dedicated Discord servers**[^4]  
-We have separate Discord servers for each nation for roleplay. We suggest joining these to keep up-to-date with affairs and to participate in roleplay. 
+13. **Join the roleplay-dedicated Discord server**[^4]  
+We have a separate Discord server for roleplay. We suggest joining this to keep up-to-date with affairs and to participate in roleplay when you cannot do so in-game.
 
 [^1]: If you are a new to roleplay or don't understand some of these terms, be sure to check out our [Roleplay Guide](roleplay-guide.md) page to see their definitions and more.
 [^2]: For an in-depth explanation on our in-game chat system, check out our [Chat System Tutorial](/gameplay/chat-system).
 [^3]: If you struggle to come up with names that fit into Avatar lore, you can find many useful name generators on the internet.
-[^4]: You can find each nation's Discord server through the main [Rokucraft Discord server](https://discord.gg/7WNFu3v). The invite links are pinned in the `#roleplay-announcements` channel.
+[^4]: You can find the link to the Rokucraft Roleplay Hub Discord server through the main [Rokucraft Discord server](https://discord.gg/7WNFu3v). The invite link is pinned in the `#roleplay-announcements` channel.
