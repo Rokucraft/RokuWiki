@@ -1,6 +1,6 @@
 # 👋 Welcome to the Rokucraft Wiki
 
-![Rokucraft Logo](https://s3.amazonaws.com/files.enjin.com/765924/enjin_banner_new.png)
+![Rokucraft Logo](https://i.imgur.com/aYs7lrA.png)
 
 Welcome! Here you will be able to find a variety of information about our server, such as nation lore, gameplay tutorials and our rules. We hope that this wiki will help you find a whole bunch of interesting information and help you along your Rokucraft journey.
 

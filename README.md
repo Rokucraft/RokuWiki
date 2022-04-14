@@ -1,4 +1,4 @@
-[![Rokucraft Logo](https://s3.amazonaws.com/files.enjin.com/765924/enjin_banner_new.png)](https://www.rokucraft.com/)
+[![Rokucraft Logo](https://i.imgur.com/aYs7lrA.png)](https://www.rokucraft.com/)
 
 # Rokucraft's Official Wiki [![build](https://github.com/Rokucraft/RokuWiki/actions/workflows/build.yml/badge.svg)](https://github.com/Rokucraft/RokuWiki/actions/workflows/build.yml)
      
