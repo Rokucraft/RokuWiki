@@ -5,7 +5,7 @@ If you're interested in contributing to the Rokucraft Wiki, please read the foll
 ## Contexts
 
 ### I have a question!
-If you have any questions, feel free to ask them on [Discord](https://discord.gg/7WNFu3v), as that is where you will receive support for everything [Rokucraft](https:/www.rokucraft.com)!
+If you have any questions, feel free to ask them on [Discord](https://discord.gg/MF3u9xZ), as that is where you will receive support for everything [Rokucraft](https:/www.rokucraft.com)!
  
 ### I've found a bug!
 If you notice a bug in our source code or within the wiki pages you are more than welcome to [submit an issue in this repository](https://github.com/Rokucraft/RokuWiki/issues/new/choose). You can also create pull requests with the fixes you've made yourself.

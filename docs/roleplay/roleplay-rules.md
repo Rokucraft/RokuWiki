@@ -46,4 +46,4 @@ We have a separate Discord server for roleplay. We suggest joining this to keep 
 [^1]: If you are a new to roleplay or don't understand some of these terms, be sure to check out our [Roleplay Guide](roleplay-guide.md) page to see their definitions and more.
 [^2]: For an in-depth explanation on our in-game chat system, check out our [Chat System Tutorial](/gameplay/chat-system).
 [^3]: If you struggle to come up with names that fit into Avatar lore, you can find many useful name generators on the internet.
-[^4]: You can find the link to the Rokucraft Roleplay Hub Discord server through the main [Rokucraft Discord server](https://discord.gg/7WNFu3v). The invite link is pinned in the `#roleplay-announcements` channel.
+[^4]: You can find the link to the Rokucraft Roleplay Hub Discord server through the main [Rokucraft Discord server](https://discord.gg/MF3u9xZ). The invite link is pinned in the `#roleplay-announcements` channel.
