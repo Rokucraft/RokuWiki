@@ -27,7 +27,7 @@ If the resource pack did not enable automatically, you should first try reloggin
     <p align=center><img src="https://user-images.githubusercontent.com/73945068/114624265-5934bf80-9ca8-11eb-9aee-1ccfa8f3182a.png" alt=""
         width="300"></p>
 
-    <font size=4>Double click and open the `.minceraft` folder.</font>
+    <font size=4>Double click and open the `.minecraft` folder.</font>
 
     <p align=center><img src="https://user-images.githubusercontent.com/73945068/114624266-59cd5600-9ca8-11eb-8d16-f953704f892c.png" alt=""
         width="400"></p>
