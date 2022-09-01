@@ -62,7 +62,7 @@ Staff attempt to promote and maintain a positive environment on Rokucraft. If yo
 ## Housing & Shop Rules
 
 1. **Do not exceed the following limits:**  
-    - **Your main account can have two houses and one shop**
+    - **Your main account can have two houses and two shops**
     - **Your alternate accounts can only have one house and one shop**  
       Please note that ships and air bison are considered ‘houses’.
     - **Houses and shops can have up to 30 entities, whereas estates can have up to 50**  
