@@ -2,21 +2,21 @@
 
 ## Roleplay Roles
 
-- **Sr. Roleplayers** are a team of roleplayers in the community that have shown outstanding maturity and capability. They help make roleplaying suggestions and discuss many things involving roleplay.
+- **Sr. Roleplayers** are a team of experienced roleplayers in the community that have shown outstanding maturity and capability. They help push roleplay suggestions and encourage general roleplay activity and growth.
 
-- **Nation Leaders** are people who manage their nation. They help with generating roleplay, making nation lore and organising events!
+- **Nation Leaders** are elected (OOC) leaders of their respective nations. They actively lead and drive roleplay within their nation. They also have some OOC responsibilities such as reviewing character applications.
 
 ## Non-staff Roles
 
 - **Builders** are a crucial part of the server. They work on many different projects and help us create the world we all know and love!
 
-- **Architects** are our most talented builders. They work on larger projects and are the driving force behind our most impressive builds!
+- **Architects** are our most talented builders. They lead and work on larger projects and are the driving force behind our most impressive builds!
 
-- **Artists** are a team of talented people who work on many things such as textures, models, skins and more!
+- **Artists** are a team of talented people who work to bring the server to life with models, textures, skins and more!
 
-- **Scroll Keepers** handle many things related to our bending systems. They organize tournaments, discuss improvements to the system, help test experimental abilities and sometimes develop abilities themselves.
+- **Messenger Hawks** create promotional materials for the server in order to keep players up to date with current affairs and to attract new players.
 
-- **Lore Keepers** are responsible for discussing and writing new lore, as well as creating and making ideas for many things to do with roleplay.
+- **Lore Keepers** are responsible for discussing and writing new lore, as well as ensuring that roleplay is server and canon lore appropriate.
 
 ## Staff Roles
 
