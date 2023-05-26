@@ -2,18 +2,18 @@
 
 For a character to become a master of their element they must complete an average of 10 roleplay lessons (8 minimum) depending on their current skill level, age, and ability. 
 
-There will be 2 types of people who can train others:
+There are two types of people who can train others:
 
 - **Masters** have completed their mastery training and have an accepted mastery application
-- **Teachers** have completed certain basic lessons and can pass this knowledge on to others
+- **Teachers** have completed any of the first 5 lessons of their element and can pass this knowledge on to others
 
-The first 5 lessons can be completed with a master *or* teacher *or* mix of both. The **last 5** lessons must be completed with a master. 8/10 lessons minimum must be completed on the server. 2/10 can be in the Roleplay Hub Discord if necessary.
+The first 5 lessons can be completed with a master *or* teacher *or* mix of both. The **last 5** lessons must be completed with a master. 8/10 lessons minimum must be completed on the server. 2/10 can be in the [Roleplay Hub Discord](https://discord.gg/tjqX25pH37) if necessary.
 
----
+- If a master is taking on a student that has already completed some lessons with a regular teacher, the master should confirm this with the teacher OOC.
 
-Masters and teachers will have a loose structure (see table below) to follow when teaching and can determine if a character will need more or less training based on skill level and progress shown. The structure will be flexible depending on the master’s teaching style and the students’ needs. Masters can have more detailed guides to specific trainings in a channel, and can share ideas, what they like to do, and what works well with the other masters.
+## Lesson Structure
 
-- If a master is taking on a student that has already completed some lessons with a regular teacher, the master should confirm this with the player OOC.
+Masters and teachers have a loose lesson plan to follow when teaching (see below) and can determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on the teacher or master’s teaching style and the students’ interests and needs. Teachers have a channel in the Roleplay Hub Discord where they can share training ideas and more detailed guides to specific lessons.
 
 The master(s) will be responsible for communicating their students’ progress in a channel (accessible to all masters) and will vouch for their student when they apply for mastery.
 
@@ -33,10 +33,7 @@ The master(s) will be responsible for communicating their students’ progress i
 
 ** Each element has moves classed as master level. [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) students can choose to learn 2 of them as part of their training.*
 
-General lesson ideas:
-
----
-
+## General lesson ideas:
 - Customize to suit student’s needs
     - more or less trainings required based on skills
 - Unique training experiences
@@ -46,3 +43,6 @@ General lesson ideas:
 - Sparring
     - Could be briefly at the end of some training sessions
     - Outside mastery training with friends
+
+## Finding a teacher
+It is highly encouraged for you to seek out bending teachers through active roleplay. However, if your character cannot find one, you can look for a player with the `Bending Teacher` tag in the Roleplay Hub Discord and contact them about teaching. You can then arrange to have your characters meet in a natural way that makes sense for them both.
