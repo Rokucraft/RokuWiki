@@ -24,5 +24,5 @@ A Nation Leader is required to actively lead and drive roleplay for their nation
 
 ## Inactivity
 
-If a Nation Leader is unable to lead (e.g. due to personal circumstances), their council will inherit their duties until the next election. The council will handle character applications and lead the nation where necessary. If the Nation Leader returns at any point during their term, they will resume their duties. It will be at the discretion of the council to determine whether the Nation Leader is inactive or not. If the Nation Leader is deemed inactive, the council should notify them (e.g. ping in council chat or direct message).
+If a Nation Leader is unable to lead, such as due to personal circumstances, their council will inherit their duties until the next election. The council will handle character applications and lead the nation where necessary. If the Nation Leader returns at any point during their term, they will resume their duties. It will be at the discretion of the council to determine whether the Nation Leader is inactive or not. If the Nation Leader is deemed inactive, the council should notify them.
 
