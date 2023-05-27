@@ -13,13 +13,11 @@ The first 5 lessons can be completed with a master *or* teacher *or* mix of both
 
 ## Role of Bending Instructors
 
-- Masters and teachers have a loose lesson plan to follow when teaching and can determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on the teacher or master’s teaching style and the student's interests and needs. 
+- Instructors have a general lesson structure to follow when teaching, and can determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on the instructor's teaching style and the student's interests.
 - Instructors have a channel in the Roleplay Hub Discord where they can share training ideas and more detailed guides to specific lessons. Bending instructors will be responsible for communicating their student's progress in this channel. 
 - When a student applies for mastery, their bending instructors must reply to the application to confirm that they have completed the required lessons.
 
 ## Lesson Structure
-
-- Masters will be able to opt in to receiving a `Master` tag in the Roleplay Hub. This will give access to a `#master` channel to discuss teaching and allows players to seek out masters.
 
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -47,4 +45,5 @@ The first 5 lessons can be completed with a master *or* teacher *or* mix of both
     - Outside mastery training with friends
 
 ## Finding a teacher
-It is highly encouraged that you to seek out bending instructors through active roleplay. However, if your character cannot find one, you can look for a player with the `Instructor` tag in the Roleplay Hub Discord and contact them about training. You can then arrange to have your characters meet in a natural way that makes sense for them both.
+
+Players are encouraged to find bending instructors through roleplay. However, if your character cannot find one, you can look for a player with the `Instructor` tag in the Roleplay Hub and contact them about training. Bending teachers and masters will have this tag if they would like people to contact them about training. You can then arrange to have your characters meet in a realistic way.
