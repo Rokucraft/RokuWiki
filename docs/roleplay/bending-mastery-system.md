@@ -17,7 +17,7 @@ The first 5 lessons can be completed with a master *or* teacher *or* mix of both
 - Use the channel in the Roleplay Hub Discord to share training ideas and more detailed guides to specific lessons. Communicate student's progress in this channel. 
 - When a student applies for mastery, reply to the application to confirm that they have completed the required lessons.
 
-## Finding a Teacher
+## Finding an Instructor
 
 Players are encouraged to find bending instructors through roleplay. However, if your character cannot find one, you can look for a player with the `Instructor` tag in the Roleplay Hub and contact them about training. Bending teachers and masters will have this tag if they would like people to contact them about training. You can then arrange to have your characters meet in a realistic way.
 
