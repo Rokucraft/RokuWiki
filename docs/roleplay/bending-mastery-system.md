@@ -2,7 +2,7 @@
 
 ## Becoming a Master
 
-For a character to be officially considered a master of their element they must complete an average of 10 roleplay lessons, minimum 8, depending on their current skill level, age, and ability. A minimum of 8/10 lessons must be completed on the server. 2/10 can be in the [Roleplay Hub Discord](https://discord.gg/tjqX25pH37) if necessary.
+For a character to become a master of their element they must complete an average of 10 roleplay lessons, minimum 8, depending on their current skill level, age, and ability. A minimum of 8/10 lessons must be completed on the server. 2/10 can be in the [Roleplay Hub Discord](https://discord.gg/tjqX25pH37) if necessary. Once completed, fill out the mastery application on the [forum](https://forum.rokucraft.com/) using the template provided.
 
 There are two types of bending instructor:
 
@@ -13,7 +13,7 @@ There are two types of bending instructor:
 
 - Follow the lesson structure when teaching and determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on teaching style and the student's interests. 
 - Use the `#instructors` channel in the Roleplay Hub Discord to share training ideas and more detailed guides to specific lessons. Communicate students' progress in this channel. 
-- When a student applies for mastery, reply to the application to confirm that they have completed the required lessons.
+- When a student applies for mastery, reply to the application to confirm which lessons you have taught them and if you think they are ready to be a master.
 
 ## Finding an Instructor
 
