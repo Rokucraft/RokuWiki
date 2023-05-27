@@ -110,6 +110,6 @@ Waterbending students can choose to follow either the traditional, or healing pa
 8. Meditation
 9. Sparring
 10. Advanced
-Final test
+11. Final test
 
 Lessons can also include sparring, training with other students, or visiting locations in order to learn a specific skill. Be creative!
