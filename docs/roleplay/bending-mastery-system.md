@@ -25,7 +25,7 @@ For a character to become a master of their element they must complete an averag
 
     Present a lesson plan [finish desc]
 
-    Please roleplay one of the following scenarios. You may choose one that will help showcase your character's relevant skills and creativity.
+    Please respond in character to one of the following scenarios. Choose one that will help showcase your character's relevant skills and creativity!
 
     1. Combat: desc
 
@@ -45,12 +45,12 @@ For a character to become a master of their element they must complete an averag
 There are two types of bending instructor:
 
 - **Masters** have completed all lessons and have an accepted mastery application
-- **Teachers** have completed any of the first 5 lessons of their element and can pass this knowledge on to others
+- **Teachers** have completed any of the first 5 lessons and can pass this knowledge on to others
 
 ## Role of Bending Instructors
 
 - Follow the lesson structure when teaching and determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on teaching style and the student's interests. 
-- Use the `#instructors` channel in the Roleplay Hub Discord to share training ideas and more detailed guides to specific lessons. Communicate students' progress in this channel. 
+- Use the `#instructors` channel in the Roleplay Hub to share training ideas, more detailed guides to specific lessons, and communicate students' progress.
 - When a student applies for mastery, reply to the application to confirm which lessons you have taught them and if you think they are ready to be a master.
 
 ## Finding an Instructor
@@ -62,7 +62,7 @@ Players are encouraged to find bending instructors through roleplay. However, if
 The first 5 lessons can be completed with a master *or* teacher *or* mix of both. The last 5 lessons must be completed with a master. [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) have moves classed as master level. Students can choose to learn two of these as part of their mastery training.
 
 ### Water
-Waterbending students can choose to follow the traditional or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons. For practical waterbending or history and culture, the lesson can relate specifically to the character's Clan if applicable.
+Waterbending students can choose to follow either the traditional, or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons. For practical waterbending or history and culture, the lesson can relate specifically to the character's Clan if applicable.
 
 1. Basics
 2. Movement
