@@ -34,13 +34,7 @@ The first 5 lessons can be completed with a master *or* teacher *or* mix of both
 ** Each element has moves classed as master level. [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) students can choose to learn 2 of them as part of their training.*
 
 
-- Unique training experiences
-    - e.g. trip with master to interesting location that suits a specific skill (like a certain firebender’s unique lightning experience)
-- Complete lessons with multiple students
-    - more people to RP with and get to know
-- Sparring
-    - Could be briefly at the end of some training sessions
-    - Outside mastery training with friends
+Lessons can also include sparring, training with other students, or visiting locations in order to learn a specific skill. Be creative!
 
 ## Finding a teacher
 
