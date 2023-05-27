@@ -13,9 +13,9 @@ The first 5 lessons can be completed with a master *or* teacher *or* mix of both
 
 ## Role of Bending Instructors
 
-- Instructors have a general lesson structure to follow when teaching, and can determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on the instructor's teaching style and the student's interests.
-- Instructors have a channel in the Roleplay Hub Discord where they can share training ideas and more detailed guides to specific lessons. Bending instructors will be responsible for communicating their student's progress in this channel. 
-- When a student applies for mastery, their bending instructors must reply to the application to confirm that they have completed the required lessons.
+- Follow the lesson structure when teaching and determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on teaching style and the student's interests. 
+- Use the channel in the Roleplay Hub Discord to share training ideas and more detailed guides to specific lessons. Communicate student's progress in this channel. 
+- When a student applies for mastery, reply to the application to confirm that they have completed the required lessons.
 
 ## Lesson Structure
 
@@ -33,9 +33,7 @@ The first 5 lessons can be completed with a master *or* teacher *or* mix of both
 
 ** Each element has moves classed as master level. [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) students can choose to learn 2 of them as part of their training.*
 
-## General lesson ideas:
-- Customize to suit student’s needs
-    - more or less trainings required based on skills
+
 - Unique training experiences
     - e.g. trip with master to interesting location that suits a specific skill (like a certain firebender’s unique lightning experience)
 - Complete lessons with multiple students
