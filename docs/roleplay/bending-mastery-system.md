@@ -2,7 +2,45 @@
 
 ## Becoming a Master
 
-For a character to become a master of their element they must complete an average of 10 roleplay lessons, minimum 8, depending on their current skill level, age, and ability. A minimum of 8/10 lessons must be completed on the server. 2/10 can be in the [Roleplay Hub Discord](https://discord.gg/tjqX25pH37) if necessary. Once completed, fill out the mastery application on the [forum](https://forum.rokucraft.com/) using the template provided.
+For a character to become a master of their element they must complete an average of 10 roleplay lessons, minimum 8, depending on their current skill level, age, and ability. A minimum of 8/10 lessons must be completed on the server. 2/10 can be in the [Roleplay Hub](https://discord.gg/tjqX25pH37) if necessary. Once completed, fill out the mastery application on the [forum](https://forum.rokucraft.com/) using the template provided.
+
+??? note "Mastery Application Template"
+    ```markdown
+    # Bending Mastery Application
+
+    ## Information
+
+    Minecraft username:
+    Character name:
+    Character age:
+    Link to character introduction:
+    What element are you applying for mastery over?
+    Bending instructor(s):
+    Number of mastery lessons completed:
+
+    Why do you deserve the title of master?
+    What roleplay would you generate as a master?
+
+    ## Knowledge Showcase
+
+    Present a lesson plan [finish desc]
+
+    Please roleplay one of the following scenarios. You may choose one that will help showcase your character's relevant skills and creativity.
+
+    1. Combat: desc
+
+    2. Practical: Your character must use their bending abilities to solve a practical problem. Showcase your resourcefulness and creativity by applying your bending to real-world situations. You may use one of the following examples or create your own similar scenario.
+    - divert a river to irrigate farmland or prevent a flood
+    - construct a new path/bridge or clear a path through an obstacle
+    - contain an out of control fire
+    - guide a ship through rough seas
+
+    3. Meditation: desc
+
+    Your instructors(s) must reply to this post to vouch for you. Please ask them to do this.
+
+    ```
+* * *
 
 There are two types of bending instructor:
 
