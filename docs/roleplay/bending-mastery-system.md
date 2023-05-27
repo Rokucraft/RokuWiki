@@ -24,7 +24,7 @@ Players are encouraged to find bending instructors through roleplay. However, if
 ## Lesson Structure
 
 ### Water
-Waterbending students can choose the regular or healing path to mastery.
+Waterbending students can choose to follow the traditional or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons.
 
 1. Basic water control
 2. Movement
