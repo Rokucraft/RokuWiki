@@ -27,7 +27,7 @@ Players are encouraged to find bending instructors through roleplay. However, if
 Waterbending students can choose the regular or healing path to mastery.
 
 1. Basic water control
-2. Movement (surf, etc.)
+2. Movement
 3. Temperature control
 4. Offensive skills 1 *or* Healing 1
 5. Defensive skills 1
@@ -40,30 +40,30 @@ Waterbending students can choose the regular or healing path to mastery.
 ### Earth
 1. Beginner offence
 2. Beginner defence
-3. History / culture
+3. History and culture
 4. Intermediate offence
 5. Intermediate defence
-6. Practical earthbending (e.g. building, art)
+6. Practical earthbending
 7. Advanced offence
 8. Advanced defence
 9. Master move 1
 10. Master move 2
 
 ### Fire
-1. Breathing/heat training
-2. Beginner offence/defence
-3. History / culture
-4. Intermediate offence/defence
-5. Energy, Drive, and Control
-6. Practical firebending (e.g. spiritual, circus, survival)
+1. Breathing and heat
+2. Beginner offence and defence
+3. History and culture
+4. Intermediate offence and defence
+5. Energy, drive, and control
+6. Practical firebending
 7. Advanced offence
 8. Advanced defence
 9. Master move 1
 10. Master move 2
 
 ### Air
-1. Intro / Basics
-2. Culture / Traditions
+1. Basics
+2. Culture and traditions
 3. Balance
 4. History
 5. Spiritual
@@ -75,6 +75,5 @@ Waterbending students can choose the regular or healing path to mastery.
 Final test
 
 [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) have moves classed as master level. Students can choose to learn two of these as part of their mastery training.
-
 
 Lessons can also include sparring, training with other students, or visiting locations in order to learn a specific skill. Be creative!
