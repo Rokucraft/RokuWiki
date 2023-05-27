@@ -21,17 +21,17 @@ Players are encouraged to find bending instructors through roleplay. However, if
 
 ## Lesson Structure
 
-The first 5 lessons can be completed with a master *or* teacher *or* mix of both. The last 5 lessons must be completed with a master. 
+The first 5 lessons can be completed with a master *or* teacher *or* mix of both. The last 5 lessons must be completed with a master. [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) have moves classed as master level. Students can choose to learn two of these as part of their mastery training.
 
 ### Water
-Waterbending students can choose to follow the traditional or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons.
+Waterbending students can choose to follow the traditional or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons. For practical waterbending or history and culture, the lesson can relate specifically to the character's Clan if applicable.
 
-1. Basic water control
+1. Basics
 2. Movement
 3. Temperature control
 4. Offensive skills 1 *or* Healing 1
 5. Defensive skills 1
-6. Practical waterbending or history/culture (Clan specific?)
+6. Practical waterbending or history and culture
 7. Offensive skills 2 *or* Healing 2
 8. Defensive skills 2
 9. Master move 1
@@ -73,7 +73,5 @@ Waterbending students can choose to follow the traditional or healing path to ma
 9. Sparring
 10. Advanced
 Final test
-
-[Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) have moves classed as master level. Students can choose to learn two of these as part of their mastery training.
 
 Lessons can also include sparring, training with other students, or visiting locations in order to learn a specific skill. Be creative!
