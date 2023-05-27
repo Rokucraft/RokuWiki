@@ -23,19 +23,58 @@ Players are encouraged to find bending instructors through roleplay. However, if
 
 ## Lesson Structure
 
-|  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 🌊 Water 🌊
- | Basic water control | Movement
-(surf, etc.) | Temperature control | Offensive skills 1 or Healing 1 | Defensive skills 1 | Practical waterbending or history/culture
-(Clan specific?) | Offensive skills 2 or Healing 2 | Defensive skills 2 | Master move 1* | Master move 2 | Allows for integrated healing path, student can choose healing instead of offensive |
-| ⛰️ Earth ⛰️ | Beginner offence | Beginner defence | History / culture | Intermediate offence | Intermediate defence | Practical earthbending
-(e.g. building, art) | Advancedoffence | Advanceddefence | Master move 1 | Master move 2 |  |
-| 🔥 Fire 🔥 | Breathing/heat training | Beginner offence/defence | History / culture | Intermediate offence/defence | Energy, Drive, and Control | Practical firebending
-(e.g. spiritual, circus, survival) | Advanced offence | Advanced defence | Master move 1 | Master move 2 |  |
-| 💨 Air 💨 | Intro / Basics | Culture / Traditions | Balance | History | Spiritual | Offensive | Defensive | Meditation | Sparring  | Advanced | Final Test |
+### Water
+Waterbending students can choose the regular or healing path to mastery.
 
-** Each element has moves classed as master level. [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) students can choose to learn 2 of them as part of their training.*
+1. Basic water control
+2. Movement (surf, etc.)
+3. Temperature control
+4. Offensive skills 1 *or* Healing 1
+5. Defensive skills 1
+6. Practical waterbending or history/culture (Clan specific?)
+7. Offensive skills 2 *or* Healing 2
+8. Defensive skills 2
+9. Master move 1
+10. Master move 2
+
+### Earth
+1. Beginner offence
+2. Beginner defence
+3. History / culture
+4. Intermediate offence
+5. Intermediate defence
+6. Practical earthbending (e.g. building, art)
+7. Advanced offence
+8. Advanced defence
+9. Master move 1
+10. Master move 2
+
+### Fire
+1. Breathing/heat training
+2. Beginner offence/defence
+3. History / culture
+4. Intermediate offence/defence
+5. Energy, Drive, and Control
+6. Practical firebending (e.g. spiritual, circus, survival)
+7. Advanced offence
+8. Advanced defence
+9. Master move 1
+10. Master move 2
+
+### Air
+1. Intro / Basics
+2. Culture / Traditions
+3. Balance
+4. History
+5. Spiritual
+6. Offensive
+7. Defensive
+8. Meditation
+9. Sparring
+10. Advanced
+Final test
+
+[Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) have moves classed as master level. Students can choose to learn two of these as part of their mastery training.
 
 
 Lessons can also include sparring, training with other students, or visiting locations in order to learn a specific skill. Be creative!
