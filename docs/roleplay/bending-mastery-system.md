@@ -76,8 +76,8 @@ Waterbending students can choose to follow the traditional or healing path to ma
 10. Master move 2
 
 ### Earth
-1. Beginner offence
-2. Beginner defence
+1. Strength and stability
+2. Beginner offence and defence
 3. History and culture
 4. Intermediate offence
 5. Intermediate defence
