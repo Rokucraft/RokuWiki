@@ -6,7 +6,7 @@ This page will cover the most frequently asked questions about Rokucraft. The ot
 ## Gameplay
 
 ??? question "How do I connect to the server?"
-    You can connect to our Minecraft server by adding it to your server list. Our IP address is `play.rokucraft.com` and the current version of the server is **1.16.5**.
+    You can connect to our Minecraft server by adding it to your server list. Our IP address is `play.rokucraft.com` and the current version of the server is **1.17.1**.
 
     Note that you can only join our server using a valid copy of Minecraft Java Edition. Cracked versions of Minecraft are not able to join our server and never will be.
 
