@@ -1,6 +1,6 @@
 # Character Introductions
 
-You might be wondering what people mean when they talk about character introductions. A character introduction is a page where you explain who your character is for other people in the community to see. These can be very useful for people who want to learn your character's backstory, strengths, traits, etc. without having to go around asking you for every specific detail. You can see other people's character introductions and make your own in the <a href="https://forum.rokucraft.com/c/roleplay/character-introductions/10" target="_blank">'Character Introductions' category on our forums</a>.
+You might be wondering what people mean when they talk about character introductions. A character introduction is a page where you explain who your character is for other people in the community to see. These can be very useful for people who want to learn your character's backstory, strengths, traits, etc. without having to go around asking you for every specific detail. You can see other people's character introductions and make your own in the <a href="https://forum.rokucraft.com/c/roleplay/character-introductions/10" target="_blank">Character Introductions category</a> on our forums.
 
 ## List of Ideas
 
