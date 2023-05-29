@@ -83,6 +83,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - content.code.copy
   font:
     text: Nunito
     code: Roboto Mono
