@@ -40,7 +40,7 @@ For a character to become a master of their element they must complete an averag
 There are two types of bending instructor:
 
 - **Masters** have completed all lessons and have an accepted mastery application
-- **Teachers** have completed any of the first 5 lessons and can pass this knowledge on to others
+- **Teachers** have completed any amount of the first 5 lessons and can pass their knowledge on to others
 
 ## Role of Bending Instructors
 
