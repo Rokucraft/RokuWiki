@@ -32,7 +32,7 @@ For a character to become a master of their element they must complete an averag
 
     2. A devastating earthquake has struck a city in the cold, dead of night, causing widespread destruction and leaving many people injured. Many buildings have become unstable or collapsed altogether, trapping citizens and creating obstacles throughout the city. The air is thick with dust that creates a hazy atmosphere, obscuring visibility and making it hard to assess the extent of the damage. Fires have broken out in one area of the city. As the dust settles and the injured cry out for help, you emerge from where you had taken shelter...
 
-    Your instructors(s) must reply to this post to vouch for you. Please ask them to do this.
+    Your instructors must reply to this post to vouch for you. Please ask them to do this.
 
     ```
 * * *
