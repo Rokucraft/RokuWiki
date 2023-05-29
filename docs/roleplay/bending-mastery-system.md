@@ -25,17 +25,15 @@ For a character to become a master of their element they must complete an averag
 
     Present a lesson plan [finish desc]
 
-    Please respond in character to one of the following scenarios. Choose one that will help showcase your character's relevant skills and creativity!
+    Please respond in character to one of the following scenarios. Choose one that will help showcase your character's relevant skills and creativity! You may respond to both scenarios if you wish.
 
-    1. Combat: desc
+    1. You're taking a leisurely stroll through a forest outside a town when you hear voices up ahead. You cautiously approach the source of the noise and spot a group of people. They appear to be discussing a plan of some sort. A few of them carry weapons, and you can tell they're looking for a fight. You don't know anything about their intentions or abilities, but you can tell from their posture and attitude that they're confident and skilled. There are no other people in sight and suddenly one member of the group spots you. What do you do?
 
     2. Practical: Your character must use their bending abilities to solve a practical problem. Showcase your resourcefulness and creativity by applying your bending to real-world situations. You may use one of the following examples or create your own similar scenario.
     - divert a river to irrigate farmland or prevent a flood
     - construct a new path/bridge or clear a path through an obstacle
     - contain an out of control fire
     - guide a ship through rough seas
-
-    3. Meditation: desc
 
     Your instructors(s) must reply to this post to vouch for you. Please ask them to do this.
 
@@ -100,6 +98,9 @@ Waterbending students can choose to follow either the traditional, or healing pa
 10. Master move 2
 
 ### Air
+
+Air Mastery is an honorary title held by the most accomplished monks and nuns. It is achieved through intense training and hard work. Being a master is a gateway to more possibilities and opportunities. After completing the training, there is a trial. If it’s passed the Masters prepare a special ceremony in the temples, tattoos are being made on their bodies
+
 1. Basics
 2. Culture and traditions
 3. Balance
