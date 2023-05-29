@@ -1,4 +1,4 @@
-# Nation Leader Responsibilities, Requirements, and Elections
+# Nation Leaders
 
 ## Responsibilities of a Nation Leader
 

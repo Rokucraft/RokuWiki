@@ -78,7 +78,7 @@ theme:
   language: en
   palette:
     - scheme: slate
-      primary: 
+      primary: custom
       accent: amber
   features:
     - navigation.tabs
@@ -127,7 +127,7 @@ nav:
     - ❓ Important Information:
       - Roleplay Guide: roleplay/roleplay-guide.md
       - Roleplay Rules: roleplay/roleplay-rules.md
-      - Nation Leader System: roleplay/nation-leader-system.md
+      - Nation Leaders: roleplay/nation-leaders.md
       - Mastery: roleplay/mastery.md
     - 📝 Character Information:
       - Character Introductions: roleplay/character-introductions.md
