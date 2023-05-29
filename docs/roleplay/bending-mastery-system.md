@@ -15,8 +15,9 @@ For a character to become a master of their element they must complete an averag
     Character age:
     Link to character introduction:
     What element are you applying for mastery over?
-    Bending instructor(s):
+    Bending instructors:
     Number of mastery lessons completed:
+    Master moves completed (for Water/Earth/Fire):
 
     Why do you deserve the title of master?
     What roleplay would you generate as a master?
@@ -27,13 +28,9 @@ For a character to become a master of their element they must complete an averag
 
     Please respond in character to one of the following scenarios. Choose one that will help showcase your character's relevant skills and creativity! You may respond to both scenarios if you wish.
 
-    1. You're taking a leisurely stroll through a forest outside a town when you hear voices up ahead. You cautiously approach the source of the noise and spot a group of people. They appear to be discussing a plan of some sort. A few of them carry weapons, and you can tell they're looking for a fight. You don't know anything about their intentions or abilities, but you can tell from their posture and attitude that they're confident and skilled. There are no other people in sight and suddenly one member of the group spots you. What do you do?
+    1. You're taking a leisurely stroll through a forest outside a town when you hear voices up ahead. You cautiously approach the source of the noise and spot a group of people. They appear to be discussing a plan of some sort. A few of them carry weapons, and you can tell they're looking for a fight. You don't know anything about their intentions, but you can tell from their posture and attitude that they're confident and skilled. There are no other people in sight. Suddenly one member of the group spots you...
 
-    2. Practical: Your character must use their bending abilities to solve a practical problem. Showcase your resourcefulness and creativity by applying your bending to real-world situations. You may use one of the following examples or create your own similar scenario.
-    - divert a river to irrigate farmland or prevent a flood
-    - construct a new path/bridge or clear a path through an obstacle
-    - contain an out of control fire
-    - guide a ship through rough seas
+    2. A devastating earthquake has struck a city in the cold, dead of night, causing widespread destruction and leaving many people injured. Many buildings have become unstable or collapsed altogether, trapping citizens and creating obstacles throughout the city. The air is thick with dust that creates a hazy atmosphere, obscuring visibility and making it hard to assess the extent of the damage and begin to locate people. Fires have broken out in one area of the city. As the dust settles and the injured cry out for help, you emerge from where you had taken shelter...
 
     Your instructors(s) must reply to this post to vouch for you. Please ask them to do this.
 
