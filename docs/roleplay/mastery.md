@@ -24,7 +24,7 @@ For a character to become a master of their element they must complete an averag
 
     ## Knowledge Showcase
 
-    Choose a move you have learned and roleplay how you would teach it to a student. Explain what the move does and describe the form, movements, and technique required to perform the move. How does it connect to your element? How can it be used practically outside of lessons?
+    Choose a move you have learned and roleplay how you would teach it to a student. Explain what the move does and describe the form, movements, and technique required to perform it. How does it connect to your element? How can it be used practically outside of lessons?
 
     Please respond in character to one of the following scenarios. Choose one that will help showcase your character's relevant skills and creativity! You may respond to both scenarios if you wish.
 
