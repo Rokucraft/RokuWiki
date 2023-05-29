@@ -78,7 +78,7 @@ theme:
   language: en
   palette:
     - scheme: slate
-      primary: 
+      primary: custom
       accent: amber
   features:
     - navigation.tabs
