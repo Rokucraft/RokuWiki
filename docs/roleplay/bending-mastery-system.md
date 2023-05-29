@@ -2,7 +2,7 @@
 
 ## Becoming a Master
 
-For a character to become a master of their element they must complete an average of 10 roleplay lessons, minimum 8, depending on their current skill level, age, and ability. A minimum of 8/10 lessons must be completed on the server. 2/10 can be in the [Roleplay Hub](https://discord.gg/tjqX25pH37) if necessary. Once completed, fill out the mastery application on the [forum](https://forum.rokucraft.com/) using the template provided.
+For a character to become a master of their element they must complete an average of 10 roleplay lessons, minimum 8, depending on their current skill level, age, and ability. A minimum of 8/10 lessons must be completed on the server. 2/10 can be in the [Roleplay Hub](https://discord.gg/tjqX25pH37) if necessary. Once completed, fill out the mastery application on the [forum](https://forum.rokucraft.com/c/roleplay-applications/mastery/16) using the template provided.
 
 ??? note "Mastery Application Template"
     ```markdown
