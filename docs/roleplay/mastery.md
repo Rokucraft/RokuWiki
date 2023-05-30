@@ -69,53 +69,63 @@ The first 5 lessons can be completed with a master *or* teacher *or* mix of both
 ### Water
 Waterbending students can choose to follow either the traditional, or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons. For practical waterbending or history and culture, the lesson can relate specifically to the character's Clan if applicable.
 
-1. Basics
-2. Movement
-3. Temperature control
-4. Offensive skills 1 *or* Healing 1
-5. Defensive skills 1
-6. Practical waterbending or history and culture
-7. Offensive skills 2 *or* Healing 2
-8. Defensive skills 2
-9. Master move 1
-10. Master move 2
+??? info "Lesson Structure"
+
+    1. Basics
+    2. Movement
+    3. Temperature control
+    4. Offensive skills 1 *or* Healing 1
+    5. Defensive skills 1
+    6. Practical waterbending or history and culture
+    7. Offensive skills 2 *or* Healing 2
+    8. Defensive skills 2
+    9. Master move 1
+    10. Master move 2
 
 ### Earth
-1. Strength and stability
-2. Beginner offence and defence
-3. History and culture
-4. Intermediate offence
-5. Intermediate defence
-6. Practical earthbending
-7. Advanced offence
-8. Advanced defence
-9. Master move 1
-10. Master move 2
+
+??? info "Lesson Structure"
+
+    1. Strength and stability
+    2. Beginner offence and defence
+    3. History and culture
+    4. Intermediate offence
+    5. Intermediate defence
+    6. Practical earthbending
+    7. Advanced offence
+    8. Advanced defence
+    9. Master move 1
+    10. Master move 2
 
 ### Fire
-1. Breathing and heat
-2. Beginner offence and defence
-3. History and culture
-4. Intermediate offence and defence
-5. Energy, drive, and control
-6. Practical firebending
-7. Advanced offence
-8. Advanced defence
-9. Master move 1
-10. Master move 2
+
+??? info "Lesson Structure"
+
+    1. Breathing and heat
+    2. Beginner offence and defence
+    3. History and culture
+    4. Intermediate offence and defence
+    5. Energy, drive, and control
+    6. Practical firebending
+    7. Advanced offence
+    8. Advanced defence
+    9. Master move 1
+    10. Master move 2
 
 ### Air
 
 Air master is an honourary position held by the most accomplished monks and nuns. It is achieved through intense training and hard work. Being a master is a gateway to more possibilities and opportunities. After completing the required lessons, there is a final trial. Students who pass this trial will receive their air mastery tattoos and be presented at a special ceremony by other air masters. Air masters must take on vows to teach others and respect the ways of masters.
 
-1. Basics
-2. Culture and traditions
-3. Balance
-4. History
-5. Spiritual
-6. Offensive
-7. Defensive
-8. Meditation
-9. Sparring
-10. Advanced
-11. Final test
+??? info "Lesson Structure"
+
+    1. Basics
+    2. Culture and traditions
+    3. Balance
+    4. History
+    5. Spiritual
+    6. Offensive
+    7. Defensive
+    8. Meditation
+    9. Sparring
+    10. Advanced
+    11. Final test
