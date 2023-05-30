@@ -136,4 +136,3 @@ Nation Leaders are responsible for reviewing these applications, and will make t
 
     <!-- Your instructors must reply to this post to vouch for you. Please ask them to do this. -->
     ```
-* * *
