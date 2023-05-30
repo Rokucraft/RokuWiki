@@ -10,8 +10,6 @@ After you have completed the necessary classes, you will be eligible to apply fo
 
 ## Bending Instructors
 
-### Types of Instructor
-
 There are two types of bending instructor:
 
 - **Masters** have completed all lessons and have an accepted mastery application
