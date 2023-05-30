@@ -95,7 +95,7 @@ Air master is an honourary position held by the most accomplished monks and nuns
 
 Once you have completed your lessons, fill out the mastery application on the Roleplay Applications section of the [forum](https://forum.rokucraft.com/c/roleplay-applications/mastery/16). You can view the application template below. Your bending instructors will be required to vouch for you on your application. Nation Leaders are responsible for reviewing the applications.
 
-??? note "Mastery Application Template"
+??? example "Mastery Application Template"
     ```markdown
     ## Information
     ### Minecraft username
