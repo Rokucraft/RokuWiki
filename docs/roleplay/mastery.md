@@ -8,6 +8,8 @@ A minimum of 8 of your character's lessons must be completed on the server. Othe
 
 After you have completed the necessary classes, you will be eligible to apply for mastery on the [forum](https://forum.rokucraft.com/c/roleplay-applications/mastery/16).
 
+***
+
 ## Bending Instructors
 
 There are two types of bending instructors:
@@ -24,6 +26,8 @@ You are encouraged to find bending instructors through roleplay. However, if you
 - Follow the lesson structure when teaching and determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on teaching style and the student's interests. 
 - Use the `#instructors` channel in the Roleplay Hub to share training ideas, more detailed guides to specific lessons, and communicate students' progress.
 - When a student applies for mastery, reply to the application to confirm which lessons you have taught them and if you think they are ready to be a master.
+
+***
 
 ## Lesson Structure
 
@@ -93,6 +97,8 @@ Air Master is an honourary position held by the most accomplished monks and nuns
     9. Sparring
     10. Advanced
     11. Final test
+
+***
 
 ## Applications
 
