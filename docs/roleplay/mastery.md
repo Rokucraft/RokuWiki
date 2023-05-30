@@ -43,20 +43,24 @@ For a character to become a master of their element they must complete an averag
     ```
 * * *
 
+## Bending Instructors
+
+### Types of Instructor
+
 There are two types of bending instructor:
 
 - **Masters** have completed all lessons and have an accepted mastery application
 - **Teachers** have completed any amount of the first 5 lessons and can pass their knowledge on to others
 
-## Role of Bending Instructors
+### Finding an Instructor
+
+Players are encouraged to find bending instructors through roleplay. However, if your character cannot find one, you can look for a player with the `Instructor` tag in the Roleplay Hub and contact them about training. Bending teachers and masters can choose to have this tag if they would like to be contacted by others. You can then arrange to have your characters meet in a realistic way.
+
+### Role of Instructors
 
 - Follow the lesson structure when teaching and determine if a character will need more or less training based on skill level and progress shown. The structure is flexible depending on teaching style and the student's interests. 
 - Use the `#instructors` channel in the Roleplay Hub to share training ideas, more detailed guides to specific lessons, and communicate students' progress.
 - When a student applies for mastery, reply to the application to confirm which lessons you have taught them and if you think they are ready to be a master.
-
-## Finding an Instructor
-
-Players are encouraged to find bending instructors through roleplay. However, if your character cannot find one, you can look for a player with the `Instructor` tag in the Roleplay Hub and contact them about training. Bending teachers and masters can choose to have this tag if they would like to be contacted by others. You can then arrange to have your characters meet in a realistic way.
 
 ## Lesson Structure
 
