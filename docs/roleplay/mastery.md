@@ -77,7 +77,7 @@ Waterbending students can choose to follow either the traditional or healing pat
 
 ### Air
 
-Air master is an honourary position held by the most accomplished monks and nuns. It is achieved through intense training and hard work. Being a master is a gateway to more possibilities and opportunities. After completing the required lessons, there is a final trial. Students who pass this trial will receive their air mastery tattoos and be presented at a special ceremony by other air masters. Air masters must take on vows to teach others and respect the ways of masters.
+Air Master is an honourary position held by the most accomplished monks and nuns. It is achieved through intense training and hard work. Being a master is a gateway to more possibilities and opportunities. After completing the required lessons, there is a final trial. Students who pass this trial will receive their air mastery tattoos and be presented at a special ceremony by other air masters. Air masters must take on vows to teach others and respect the ways of masters.
 
 ??? info "Lesson Structure"
 
