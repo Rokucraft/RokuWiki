@@ -17,7 +17,7 @@ There are two types of bending instructors:
 
 ### Finding an Instructor
 
-Players are encouraged to find bending instructors through roleplay. However, if your character cannot find one, you can look for a player with the `Instructor` tag in the Roleplay Hub and contact them about training. Bending teachers and masters can choose to have this tag if they would like to be contacted by others. You can then arrange to have your characters meet in a realistic way.
+You are encouraged to find bending instructors through roleplay. However, if your character cannot find one, you can look for a player with the `Instructor` role in the Roleplay Hub and contact them about training. Bending teachers and masters can choose to have this tag if they would like to be contacted by others. You can then arrange to have your characters meet in a realistic way.
 
 ### Role of Instructors
 
