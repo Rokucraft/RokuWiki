@@ -1,5 +1,5 @@
 ---
-title: Airbending Mastery
+title: Air Sub-elements & Skills
 ---
 
 # Airbending

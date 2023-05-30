@@ -111,7 +111,7 @@ nav:
         - Laws: nations/earth/laws.md
         - Mayor System: nations/earth/mayor-system.md
         - Court System: nations/earth/court-system.md
-      - Sub-elements: nations/earth/mastery.md
+      - Sub-elements: nations/earth/sub-elements.md
     - 🔥 Fire Nation:
       - Overview: nations/fire/fire-nation.md
       - Societal Ranks: nations/fire/societal-ranks.md
@@ -123,7 +123,7 @@ nav:
       - Overview: nations/air/air-collective.md
       - Societal Ranks: nations/air/societal-ranks.md
       - Air Council: nations/air/council.md
-      - Sub-elements & skills: nations/air/mastery.md
+      - Sub-elements & Skills: nations/air/sub-elements.md
   - Roleplay:
     - ❓ Important Information:
       - Roleplay Guide: roleplay/roleplay-guide.md

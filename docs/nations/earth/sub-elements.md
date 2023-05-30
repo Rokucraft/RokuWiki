@@ -1,5 +1,5 @@
 ---
-title: Earthbending Mastery
+title: Earth Sub-elements
 ---
 
 # Earthbending
