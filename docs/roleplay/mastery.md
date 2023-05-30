@@ -30,7 +30,7 @@ You are encouraged to find bending instructors through roleplay. However, if you
 The first 5 lessons can be completed with a master *or* teacher *or* mix of both. The remaining lessons must be completed with a master. [Water](https://avatar.fandom.com/wiki/Waterbending#Waterbending_master_level), [Earth](https://avatar.fandom.com/wiki/Earthbending#Earthbending_master_level), and [Fire](https://avatar.fandom.com/wiki/Firebending#Firebending_master_level) have moves classed as master level. Students can choose to learn two of these as part of their mastery training. Along with the outlines below, lessons can include sparring, training with other students, or visiting locations in order to learn a specific skill. Be creative!
 
 ### Water
-Waterbending students can choose to follow either the traditional, or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons. For practical waterbending or history and culture, the lesson can relate specifically to the character's Clan if applicable.
+Waterbending students can choose to follow either the traditional or healing path to mastery. If choosing the healing path, offensive lessons will be replaced by healing lessons. For practical waterbending or history and culture, the lesson can relate specifically to the character's Clan if applicable.
 
 ??? info "Lesson Structure"
 
