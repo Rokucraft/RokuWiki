@@ -6,8 +6,9 @@ title: Air Council
 
 ## Overview of the Council System
 
-The Air Collective is divided into 3 locations:
+The Air Collective is divided into 4 locations:
 
+- Eastern Air Temple
 - Southern Air Temple
 - Western Air Temple
 - Gyantse Village
