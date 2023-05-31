@@ -8,7 +8,7 @@
   --md-hue: 9; /* [0, 360] */
 }
 .writingcredit {
-  color: #9c8985;
+  opacity: 65%;
   font-size: small;
   font-style: italic;
 }
