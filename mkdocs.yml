@@ -6,6 +6,7 @@ site_description: Our wiki contains everything you need to know about roleplay a
 # Repository Information
 repo_url: https://github.com/Rokucraft/RokuWiki/
 edit_uri: edit/main/docs/
+copyright: The content of this site is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>
 
 # Plugins
 plugins:
@@ -81,6 +82,7 @@ theme:
       primary: custom
       accent: amber
   features:
+    - navigation.footer
     - navigation.tabs
     - navigation.sections
     - content.code.copy
