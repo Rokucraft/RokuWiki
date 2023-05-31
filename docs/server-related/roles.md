@@ -33,4 +33,4 @@
 - **The Owner** manages the server as a whole and takes executive decisions on the highest level.
 
 !!! info "Applications" 
-    Applications for a range of roles are currently open on the <a href="https://www.rokucraft.com" target="_blank">Rokucraft Website</a>. Any necessary information will be disclosed on the website or in announcements on Discord. If you have any further questions about these, feel free to contact a Team Leader!
+    Applications for a range of roles are currently open on the <a href="https://www.rokucraft.com/apply" target="_blank">Rokucraft Website</a>. Any necessary information will be disclosed on the website or in announcements on Discord. If you have any further questions about these, feel free to contact a Team Leader!
