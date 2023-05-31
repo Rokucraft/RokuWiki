@@ -1,5 +1,5 @@
 ---
-title: Air Council
+title: Air Councils
 ---
 
 # Air Council System
@@ -13,7 +13,7 @@ The Air Collective is divided into 4 locations:
 - Western Air Temple
 - Gyantse Village
 
-Each one of them is independent with their own councils. Those councils are established by one prominent leader (Abbot, Abbess, Mayor) and are accompanied by two senior Monks or Nuns.
+Each location is independent and run by its own council. The councils consist of a leader who is an Abbot, Abbess or Mayor, and 2 senior Monks or Nuns.
 
 The people elect an Abbot, Abbess or Mayor through a vote. The elected leaders have a four-month grace period; after that, other political opponents may challenge them to an election. 
 
