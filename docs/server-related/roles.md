@@ -2,8 +2,6 @@
 
 ## Roleplay Roles
 
-- **Sr. Roleplayers** are a team of roleplayers in the community that have shown outstanding maturity and capability. They help make roleplaying suggestions and discuss many things involving roleplay.
-
 - **Nation Leaders** are people who manage their nation. They help with generating roleplay, making nation lore and organising events!
 
 ## Non-staff Roles
@@ -15,8 +13,6 @@
 - **Artists** are a team of talented people who work on many things such as textures, models, skins and more!
 
 - **Scroll Keepers** handle many things related to our bending systems. They organize tournaments, discuss improvements to the system, help test experimental abilities and sometimes develop abilities themselves.
-
-- **Lore Keepers** are responsible for discussing and writing new lore, as well as creating and making ideas for many things to do with roleplay.
 
 ## Staff Roles
 
