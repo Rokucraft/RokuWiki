@@ -1,6 +1,6 @@
 [![Rokucraft Logo](https://i.imgur.com/aYs7lrA.png)](https://www.rokucraft.com/)
 
-# Rokucraft's Official Wiki [![build](https://github.com/Rokucraft/RokuWiki/actions/workflows/build.yml/badge.svg)](https://github.com/Rokucraft/RokuWiki/actions/workflows/build.yml)
+# Rokucraft's Official Wiki
      
 The Rokucraft Wiki contains in-depth tutorials on how gameplay functions on our server, and detailed guides on our roleplay systems. Our Wiki was built with the intention to aid every player in our community, whether they needed to read up on nation-specific lore, learn our rules or use it as a reference to help others in the community.
 
