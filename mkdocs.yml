@@ -11,6 +11,9 @@ copyright: The content of this site is licensed under <a href="http://creativeco
 # Plugins
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        'server-related/rules.md': 'https://rokucraft.com/rules'
 
 # Extensions
 markdown_extensions:
@@ -154,7 +157,6 @@ nav:
        - Pets: gameplay/pets.md
   - Server Related:
        - Resource Pack: server-related/resource-pack.md
-       - Rules: server-related/rules.md
        - Roles: server-related/roles.md
   - FAQ: faq.md
   # The "" makes the page invisible in the wiki tabs

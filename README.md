@@ -10,11 +10,10 @@ Interested in helping improve the Rokucraft Wiki? Want to report an issue? Have 
 
 ## Building
 
-To build this site locally you must first install [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) using pip:
+To build this site locally you must first install the required dependencies using pip:
 
 ```
-pip install mkdocs
-pip install mkdocs-material
+pip install -r requirements.txt
 ```
 
 Once you have done that, you can clone this repository:
